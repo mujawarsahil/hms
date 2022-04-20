@@ -12,6 +12,10 @@ public class hello {
 		System.out.println("this is updated form y1");
 		System.out.println("this is updated form y2");
 		System.out.println("this is updated form y3");
+		System.out.println("this is updated form X");
+		System.out.println("this is updated form 1X");
+		System.out.println("this is updated form 2X");
+		System.out.println("this is updated form 3X");
 	}
 
 }
