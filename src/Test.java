@@ -11,6 +11,9 @@ public class Test {
 		System.out.println("test3");
 		System.out.println("test4");
 		System.out.println("test performed by X");
+		System.out.println("test performed by X on develop branch");
+		System.out.println("test performed by X on develop branch");
+		System.out.println("test performed by X on develop branch");
 	}
 
 }
